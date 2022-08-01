@@ -26,5 +26,6 @@ pipeline {
                   steps {
                         echo "Deploying in Production2 Area22222222"
                   }
+	    }
       }
 }
